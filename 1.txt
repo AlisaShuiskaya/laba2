@@ -1,0 +1,18 @@
+copy con 123.txt
+ishkfdjfd
+kfdlfkptf
+kdfvkjdoiw
+^z
+
+move 123.txt
+sort
+type 123.txt
+sort 123.txt
+sort 123.txt /output 345.txt
+doskey /history
+output 678.txt
+move 345.txt
+doskey/history
+>
+doskey/history
+doskey/history>7.txt
